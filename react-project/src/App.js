@@ -1,4 +1,5 @@
 import './App.css';
+import HelloWorld from './components/HelloWorld';
 
 function App() {
 
@@ -10,7 +11,7 @@ function App() {
       return x + y
   }
 
-  const url = 'https://via.placeholder.com/150'
+  const url = "https://via.placeholder.com/150"
   return (
     <div className="App">
       <h1>Hello World in React!</h1>
@@ -23,6 +24,7 @@ function App() {
       <h3>Result Cálc {2+8*2}</h3>
       <h3>{sum(15,5)}</h3>
       <img src= {url} alt ="My Image"/>
+      <HelloWorld/>
     </div>
   );
 }
