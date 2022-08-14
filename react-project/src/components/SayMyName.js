@@ -1,7 +1,7 @@
 function SayMyName(props) {
     
     return (
-        <div>
+        <div className = "p">
             <p>Primeiras props com {props.nome}!</p>
         </div>
     )
