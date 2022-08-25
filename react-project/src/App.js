@@ -1,5 +1,5 @@
 import './App.css';
-import Evento from './components/Evento'
+import Evento from './components/event/Evento'
 import Form from "./components/Form"
 /* import HelloWorld from './components/HelloWorld';
 import SayMyName from './components/SayMyName';
@@ -23,7 +23,6 @@ function App() {
     <div className="App">
       <h1>Testando Eventos</h1>
       <Evento numero = "1"/>
-      <Evento numero = "2"/>
       <Form/>
       {/* Conceitos Base
       <h1>Hello World in React!</h1>
