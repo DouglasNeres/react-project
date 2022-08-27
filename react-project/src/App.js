@@ -1,7 +1,8 @@
 import './App.css';
-import Evento from './components/event/Evento'
+import Condicional from './components/Condicional';
+/* import Evento from './components/event/Evento'
 import Form from "./components/Form"
-/* import HelloWorld from './components/HelloWorld';
+import HelloWorld from './components/HelloWorld';
 import SayMyName from './components/SayMyName';
 import Pessoa from './components/Pessoa';
 import Frase from './components/Frase';
@@ -21,9 +22,11 @@ function App() {
   /* const url = "https://via.placeholder.com/150" */
   return (
     <div className="App">
-      <h1>Testando Eventos</h1>
+      <h1>Renderização Condicional</h1>
+      <Condicional/>
+      {/* <h1>Testando Eventos</h1>
       <Evento numero = "1"/>
-      <Form/>
+      <Form/> */}
       {/* Conceitos Base
       <h1>Hello World in React!</h1>
       <p><u>Dev Web</u></p>
