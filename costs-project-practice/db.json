@@ -1,22 +1,192 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-        
-    ]
+  "projects": [
+    {
+      "name": "Douglas",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Douglas",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Douglas",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 8
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 10
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 11
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 12
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 13
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 14
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 15
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 16
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 17
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 18
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 19
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 20
+    },
+    {
+      "name": "PAZ CHURCH CRATEÚS",
+      "budget": "7000",
+      "cost": 0,
+      "services": [],
+      "id": 21
+    },
+    {
+      "name": "Teste",
+      "budget": "8000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 22
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
