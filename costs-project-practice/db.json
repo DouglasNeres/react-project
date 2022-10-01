@@ -169,6 +169,88 @@
       "cost": 0,
       "services": [],
       "id": 22
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 23
+    },
+    {
+      "name": "Teste",
+      "budget": "30000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 24
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 25
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 26
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 27
+    },
+    {
+      "name": "Teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 28
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 29
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 30
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 31
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 32
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 33
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 34
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 35
+    },
+    {
+      "cost": 0,
+      "services": [],
+      "id": 36
     }
   ],
   "categories": [
